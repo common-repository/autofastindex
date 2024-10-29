@@ -1,0 +1,18 @@
+{
+  "api_url":"http://firstpageranker.com/WpIndex/public/api/v2/register",
+  "getUser":"http://firstpageranker.com/WpIndex/public/api/v2/getUserInfo",
+  "updateUser":"http://firstpageranker.com/WpIndex/public/api/v2/updateUserInfo",
+  "license_url":"http://firstpageranker.com/WpIndex/public/api/v2/checkLicense",
+  "request_api": "http://firstpageranker.com/WpIndex/public/api/v2/doIndex",
+  "notice": "http://firstpageranker.com/WpIndex/public/api/getNotice",
+  "noticication": "http://firstpageranker.com/WpIndex/public/api/getNotice",
+  "logs": "http://firstpageranker.com/WpIndex/public/api/v2/getLogs",
+  "completeIndex": "http://firstpageranker.com/WpIndex/public/api/v2/completeIndex",
+  "notificationAfterIndex": "http://firstpageranker.com/WpIndex/public/api/v2/notificationAfterIndex",
+  "backlinkIndex": "http://firstpageranker.com/WpIndex/public/api/v2/backLinkIndex",
+  "backlinkLog": "http://firstpageranker.com/WpIndex/public/api/v2/getBacklinkLogs",
+  "log":"https://logs.firstpageranker.com/api/action/addRecord",
+  "sendRequest":"https://logs.firstpageranker.com/api/public/sendRequest",
+  "userDetailsStats":"https://logs.firstpageranker.com/api/action/upsert",
+  "getNotification": "http://firstpageranker.com/WpIndex/public/api/getNotification"
+}

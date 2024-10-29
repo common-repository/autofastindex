@@ -1,0 +1,7 @@
+{
+  "api_url":"http://localhost/versionWpIndex/public/api/register",
+  "license_url":"http://localhost/versionWpIndex/public/api/checkLicense",
+  "request_api": "http://localhost/versionWpIndex/public/api/doIndex",
+  "notice": "http://localhost/versionWpIndex/public/api/getNotice",
+  "logs": "http://localhost/versionWpIndex/public/api/getLogs"
+}
